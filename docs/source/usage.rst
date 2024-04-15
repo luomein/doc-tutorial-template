@@ -12,6 +12,11 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
+Test
+----------------
+
+This is some testing text
+
 Creating recipes
 ----------------
 
